@@ -1,0 +1,21 @@
+//instalação DOCKER:
+
+abrir power shell e executar com admin:
+
+digitar comando: 
+
+wsl -l -o 
+
+wsl --install 'nomedadistribuição'
+
+obs: necessária que virtualização esteja
+habilitada na BIOS.
+
+
+- abrir ubuntu e configuta usuário e senha,
+
+- instalação do docker desktop p/ windows.
+
+- marcar as 2 opções de WSL e Hyper-v
+
+

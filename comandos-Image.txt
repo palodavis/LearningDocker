@@ -1,0 +1,32 @@
+docker system info: 
+//comandos:
+docker system info
+
+
+docker image:
+//Mostrar todos os comandos de imagem
+docker image --help
+
+exemplo de imagem criada:
+docker image pull nginx:1.23.1
+docker image pull nginx:latest
+
+docker image pull busybox
+
+listar imagens criadas:
+
+//Lista todas as imagens
+docker image ls
+
+//Lista apenas os ids das imagens
+docker image ls -q
+
+//Inspecionar uma imagem:
+docker image inspect nginx:1.23.1
+
+//Salvar uma imagem em arquivo compactado
+docker image save nginx:1.23.1 -o nginx.tar
+
+//Remover imagens dentro do host:
+docker image rm nginx:1.23.1
+

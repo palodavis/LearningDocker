@@ -1,0 +1,25 @@
+# isto é um comentário 
+
+FROM 
+
+ARG 
+
+ENV
+
+COPY
+
+ADD
+
+WORKDIR
+
+ENTRYPOINT
+
+CMD
+
+LABEL
+
+EXPOSE
+
+VOLUME 
+
+USER

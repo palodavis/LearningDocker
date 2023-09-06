@@ -1,0 +1,30 @@
+DOCKER
+
+O que é docker?
+- Principal ferramenta de conteinerização
+- Virtualização que permite criar ambientes de desenvolvimento 
+- Permite separar suas aplicações de sua infraestutura
+- Imagens, Containers, Dockerfiles, Volumes e Netwoks
+- Rápido, leve, eficiente e replicável.
+- Roda em qualquer máquina.
+
+A principal ferramenta, mas não a única.
+
+
+Vantagens docker
+- Portabilidade;
+- Leveza;
+- Escabilidade;
+- Rapidez para desenvolvimento e criação de ambientes;
+- Largamente usado com grande suporte nos maiores provedores de nuvem;
+- Grande variedade de imagens e vasta documentação;
+
+Docker Engine x Docker Desktop
+
+Docker Engine:
+- Linux
+
+Docker desktop:
+- WSL
+- Hyper-V
+
